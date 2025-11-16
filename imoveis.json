@@ -1,0 +1,22 @@
+[
+    {
+        "Codigo": "501",
+        "Descricao": "Mansão ",
+        "Endereco": "Rua Jorge pedrão",
+        "Cidade": "São carlos",
+        "Estado": "SP",
+        "CEP": "14565456",
+        "Tipo": "Residencial",
+        "ValorAluguel": 900.0
+    },
+    {
+        "Codigo": "502",
+        "Descricao": "Mansão Jeff",
+        "Endereco": "Rua Gonçalvez boss 150",
+        "Cidade": "São carlos",
+        "Estado": "SP",
+        "CEP": "46446",
+        "Tipo": "Residencial",
+        "ValorAluguel": 1000.0
+    }
+]

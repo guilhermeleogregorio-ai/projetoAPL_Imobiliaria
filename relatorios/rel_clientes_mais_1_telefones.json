@@ -1,0 +1,20 @@
+{
+  "tipo": "clientes_mais_telefones",
+  "parametro_x": 1,
+  "gerado_em": "16/11/2025 18:20:32",
+  "total": 1,
+  "clientes": [
+    {
+      "CPF": "50137749856",
+      "Nome": "Guilherme",
+      "DataNascimento": "04/06/2005",
+      "Sexo": "M",
+      "Salario": 3000.0,
+      "Telefones": [
+        "16997305497",
+        "1699785643"
+      ],
+      "Emails": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "tipo": "alugueis_por_periodo",
+  "periodo": {
+    "inicio": "04/05/1999",
+    "fim": "04/05/2002"
+  },
+  "gerado_em": "16/11/2025 18:19:14",
+  "total": 1,
+  "alugueis": [
+    {
+      "cpf_cliente": "50137749856",
+      "nome_cliente": "Guilherme",
+      "codigo_imovel": "501",
+      "descricao_imovel": "Mansão ",
+      "endereco_completo": "Rua Jorge pedrão, São carlos-SP CEP 14565456",
+      "tipo_imovel": "Residencial",
+      "valor_aluguel_imovel": 900.0,
+      "data_entrada": "04/05/1999",
+      "data_saida": "04/05/2002",
+      "valor_mensal": 900.0,
+      "fiador": {
+        "cpf": "456465654",
+        "nome": "dfgdfgdfg"
+      }
+    }
+  ]
+}
